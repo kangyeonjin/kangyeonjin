@@ -1,7 +1,3 @@
-**kangyeonjin/kangyeonjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 
 
 ​![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=yeonjin&fontSize=90)
