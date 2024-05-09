@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![file](https://github-readme-stats.vercel.app/api?username=kangyeonjin&theme=blue-green)
+![myprofiles](https://github-readme-stats.vercel.app/api?username=kangyeonjin&theme=blue-yellow)
