@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 ### Hi there 👋
 
 ![myprofiles](https://github-readme-stats.vercel.app/api?username=kangyeonjin&theme=blue-green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kangyeonjin&layout=compact)
 
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
