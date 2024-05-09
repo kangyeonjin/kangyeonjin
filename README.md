@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-​![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header)
+​![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=headertext=kangyeonjin&fontSize=90)
 
 ![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![myprofiles](https://github-readme-stats.vercel.app/api?username=kangyeonjin&theme=blue-green)
